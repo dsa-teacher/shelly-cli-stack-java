@@ -1,8 +1,10 @@
 {
+  "projectId": "05cb10cb-5960-4a89-becc-59038e6b7cb1",
+  "projectToken": "1a311ba5-eb94-4932-951c-d6aa0d0bffdb7a282891cd93467f85cda47891749830",
   "moduleId": "stack",
   "language": "Java",
+  "apiUrl": "https://mwlhxwbkuumjxpnvldli.supabase.co/functions/v1",
   "testCommand": "bash tests/run.sh",
   "reportFile": ".dsa-report.json",
-  "projectId": "TBD",
-  "projectToken": "TBD"
+  "currentChallengeIndex": 0
 }
